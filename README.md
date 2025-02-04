@@ -1,7 +1,7 @@
 <h1 align="center">Hola, mi nombre es Sebastian</h1>
 <h3 align="center">Un apasionado desarrollador de Buenos Aires</h3>
 
-- 🌱 Iianm actualmente aprendiendo **Ciberseguridad y Javascript**
+- 🌱 actualmente aprendiendo **Ciberseguridad y Javascript**
 
 - Todos mis proyectos están disponibles en [https://github.com/1432sebastian1432](https://github.com/1432sebastian1432)
 
