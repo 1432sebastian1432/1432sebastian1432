@@ -1,7 +1,7 @@
 <h1 align="center">Hola mi nombre es Sebastian</h1>
 <h3 align="center">Un apasionado desarrollador de Buenos Aires</h3>
 
-- ⁇ precio ⁇ Todos mis proyectos están disponibles en [https://github.com/1432sebastian1432](https://github.com/1432sebastian1432)
+- Todos mis proyectos están disponibles en [https://github.com/1432sebastian1432](https://github.com/1432sebastian1432)
 
 - 💬 Pregúntame sobre **Python, HTML, ciberseguridad, C++ y JavaScript.**
 
